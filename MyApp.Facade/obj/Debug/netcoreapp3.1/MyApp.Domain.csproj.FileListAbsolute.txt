@@ -1,0 +1,9 @@
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.Domain\bin\Debug\netcoreapp3.1\MyApp.Domain.deps.json
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.Domain\bin\Debug\netcoreapp3.1\MyApp.Domain.dll
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.Domain\bin\Debug\netcoreapp3.1\MyApp.Domain.pdb
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.Domain\obj\Debug\netcoreapp3.1\MyApp.Domain.csprojAssemblyReference.cache
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.Domain\obj\Debug\netcoreapp3.1\MyApp.Domain.AssemblyInfoInputs.cache
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.Domain\obj\Debug\netcoreapp3.1\MyApp.Domain.AssemblyInfo.cs
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.Domain\obj\Debug\netcoreapp3.1\MyApp.Domain.csproj.CoreCompileInputs.cache
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.Domain\obj\Debug\netcoreapp3.1\MyApp.Domain.dll
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.Domain\obj\Debug\netcoreapp3.1\MyApp.Domain.pdb

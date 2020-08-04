@@ -1,0 +1,12 @@
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.Facade\obj\Debug\netcoreapp3.1\MyApp.Facade.AssemblyInfoInputs.cache
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.Facade\obj\Debug\netcoreapp3.1\MyApp.Facade.AssemblyInfo.cs
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.Facade\obj\Debug\netcoreapp3.1\MyApp.Facade.csproj.CoreCompileInputs.cache
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.Facade\bin\Debug\netcoreapp3.1\MyApp.Facade.deps.json
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.Facade\bin\Debug\netcoreapp3.1\MyApp.Facade.dll
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.Facade\bin\Debug\netcoreapp3.1\MyApp.Facade.pdb
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.Facade\obj\Debug\netcoreapp3.1\MyApp.Facade.dll
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.Facade\obj\Debug\netcoreapp3.1\MyApp.Facade.pdb
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.Facade\bin\Debug\netcoreapp3.1\MyApp.DAL.dll
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.Facade\bin\Debug\netcoreapp3.1\MyApp.DAL.pdb
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.Facade\obj\Debug\netcoreapp3.1\MyApp.Facade.csprojAssemblyReference.cache
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.Facade\obj\Debug\netcoreapp3.1\MyApp.Facade.csproj.CopyComplete

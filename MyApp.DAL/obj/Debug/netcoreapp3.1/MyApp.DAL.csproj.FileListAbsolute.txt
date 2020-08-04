@@ -1,0 +1,8 @@
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.DAL\bin\Debug\netcoreapp3.1\MyApp.DAL.deps.json
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.DAL\bin\Debug\netcoreapp3.1\MyApp.DAL.dll
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.DAL\obj\Debug\netcoreapp3.1\MyApp.DAL.AssemblyInfoInputs.cache
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.DAL\obj\Debug\netcoreapp3.1\MyApp.DAL.AssemblyInfo.cs
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.DAL\bin\Debug\netcoreapp3.1\MyApp.DAL.pdb
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.DAL\obj\Debug\netcoreapp3.1\MyApp.DAL.dll
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.DAL\obj\Debug\netcoreapp3.1\MyApp.DAL.pdb
+D:\_PROJECT\_NETCORE\MY PROJECT\NetCoreRepositoryPatternDapper\MyApp.DAL\obj\Debug\netcoreapp3.1\MyApp.DAL.csproj.CoreCompileInputs.cache
